@@ -4,6 +4,8 @@ title: Looping in Grid View
 
 ## Description
 
+:key[shift]
+
 There are two different looping techniques that can be used in the new Song Grid View:
 
 1. Using green mode, create and immediately arm a clip within an existing track for recording
